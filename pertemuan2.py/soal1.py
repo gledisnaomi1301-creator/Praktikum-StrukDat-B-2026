@@ -20,5 +20,15 @@ thislist.sort()
 print(thislist)
 
 
+maks = max(angka)
+min = min(angka)
+
+print(maks)
+print(min)
+
+rata2= sum(angka) / len(angka)
+print(rata2)
+
+print(angka)
 
 
